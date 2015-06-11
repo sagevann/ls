@@ -11,7 +11,7 @@ title:            Liberating Structures
 tagline:          'INCLUDING AND UNLEASHING EVERYONE'
 description:      ''
 url:              
-baseurl:          /ls-hyde
+baseurl:          /ls
 
 author:
   name:           'Sage Vann'
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/sagevann/ls-hyde
+  repo:           https://github.com/sagevann/ls
